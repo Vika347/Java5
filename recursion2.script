@@ -1,0 +1,3 @@
+insert null Новая_лаба 100 200 4.5 3.0 EASY Мария 123456 GREEN RED 55 37.6 150
+insert null Лаба_без_места 10 20 null 5.0 HARD Петр null null null null null null
+save

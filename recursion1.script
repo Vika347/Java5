@@ -1,0 +1,10 @@
+info
+insert null Лаба_Без_Балла 100 200 null 3.0 EASY Автор 123456 GREEN RED 55 37.6 150
+
+insert null Лаба_Без_Места 10 20 4.5 2.5 HARD Мария 999999 BLUE BLACK null null null
+
+insert null Минимал_Лаба 50 75 null 1.0 VERY_EASY Петр null null null null null null
+
+insert null Простая 0 0 null 1.0 EASY Иван null null null null null null
+show
+save
